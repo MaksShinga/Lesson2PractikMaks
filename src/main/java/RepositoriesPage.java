@@ -7,9 +7,10 @@ import java.util.List;
 public class RepositoriesPage extends BasePage {
 
     List<WebElement> repositoriesList = driver.findElements(By.xpath("//a[@itemprop=\"name codeRepository\"]"));
+    public final static String TITLE = "Repositories Page";
 
     public RepositoriesPage(WebDriver driver) {
-        super(driver);
+        super(driver, TITLE);
     }
 
     public FirstRepositoryPage goToFirstRepository() {

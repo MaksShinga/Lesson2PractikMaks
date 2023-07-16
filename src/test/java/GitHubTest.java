@@ -4,7 +4,7 @@ public class GitHubTest extends  BaseTest{
     @Test
     public void smokeIssuesTab() {
         HomePage homePage = new HomePage(driver);
-        homePage.goToLoginPage().loginSuccessful("@gmail.com", "");
+        homePage.goToLoginPage().loginSuccessful("maksimshingelskij@gmail.com", "biDbov-6ceffu-xuhvyp");
         MainPage mainPage = new MainPage(driver);
         mainPage.goToProfileForm().goToRepositoriesPage();
         RepositoriesPage repositoriesPage = new RepositoriesPage(driver);
