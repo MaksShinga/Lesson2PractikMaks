@@ -5,9 +5,10 @@ import org.openqa.selenium.WebDriver;
 public class MainPage extends BasePage {
 
     By imgLocator = By.xpath("//img[@class='avatar circle'][1]");
+    public final static String TITLE = "Main Page";
 
     public MainPage(WebDriver driver) {
-        super(driver);
+        super(driver, TITLE);
     }
 
     public ProfileForm goToProfileForm() {

@@ -4,9 +4,10 @@ import org.openqa.selenium.WebDriver;
 
 public class ProfileForm extends BasePage {
     By yourRepositButtonLocator = By.xpath("//span[contains(text(), \"Your repositories\")]/parent::a");
+    public final static String TITLE = "ProfileForm Page";
 
     public ProfileForm(WebDriver driver) {
-        super(driver);
+        super(driver, TITLE);
     }
 
     public RepositoriesPage goToRepositoriesPage() {

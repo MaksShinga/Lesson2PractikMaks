@@ -5,9 +5,10 @@ import org.openqa.selenium.WebDriver;
 public class FirstRepositoryPage extends BasePage {
 
     private By issuesButtonLocator = By.id("issues-tab");
+    public final static String TITLE = "FirstRepository Page";
 
     public FirstRepositoryPage(WebDriver driver) {
-        super(driver);
+        super(driver, TITLE);
     }
 
     public IssuesPage goIssuesPage() {
