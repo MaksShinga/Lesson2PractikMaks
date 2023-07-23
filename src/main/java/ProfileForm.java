@@ -1,6 +1,7 @@
-import org.junit.jupiter.api.Assertions;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+
+import static org.testng.Assert.assertTrue;
 
 public class ProfileForm extends BasePage {
     By yourRepositButtonLocator = By.xpath("//span[contains(text(), \"Your repositories\")]/parent::a");
@@ -11,7 +12,7 @@ public class ProfileForm extends BasePage {
     }
 
     public RepositoriesPage goToRepositoriesPage() {
-        Assertions.assertTrue(driver.findElement(yourRepositButtonLocator).isDisplayed());
+        assertTrue(driver.findElement(yourRepositButtonLocator).isDisplayed());
         driver.findElement(yourRepositButtonLocator).click();
         return new RepositoriesPage(driver);
     }

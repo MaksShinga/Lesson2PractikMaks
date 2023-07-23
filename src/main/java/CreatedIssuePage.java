@@ -1,6 +1,7 @@
-import org.junit.jupiter.api.Assertions;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+
+import static org.testng.Assert.assertTrue;
 
 public class CreatedIssuePage extends BasePage{
     private By editButtonLocator = By.xpath("//span[contains(text(), \"Edit\")]//ancestor::button");
@@ -22,7 +23,7 @@ public class CreatedIssuePage extends BasePage{
     }
 
     public CreatedIssuePage closeIssue() {
-        Assertions.assertTrue(driver.findElement(closeIssueButtonLocator).isDisplayed());
+        assertTrue(driver.findElement(closeIssueButtonLocator).isDisplayed());
         driver.findElement(closeIssueButtonLocator).click();
         logger.info("New issue is closed");
         return new CreatedIssuePage(driver);

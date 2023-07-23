@@ -1,6 +1,7 @@
-import org.junit.jupiter.api.Assertions;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+
+import static org.testng.Assert.assertTrue;
 
 public class MainPage extends BasePage {
 
@@ -12,7 +13,7 @@ public class MainPage extends BasePage {
     }
 
     public ProfileForm goToProfileForm() {
-        Assertions.assertTrue(driver.findElement(imgLocator).isDisplayed());
+        assertTrue(driver.findElement(imgLocator).isDisplayed());
         driver.findElement(imgLocator).click();
         return new ProfileForm(driver);
     }
