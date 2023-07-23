@@ -1,6 +1,7 @@
-import org.junit.jupiter.api.Assertions;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+
+import static org.testng.Assert.assertTrue;
 
 public class IssuesPage extends BasePage{
     //span[contains(text(), "New issue")]/parent::a
@@ -12,7 +13,7 @@ public class IssuesPage extends BasePage{
     }
 
     public NewIssuePage goToNewIssuePage() {
-        Assertions.assertTrue(driver.findElement(newIssueButtonLocator).isDisplayed());
+        assertTrue(driver.findElement(newIssueButtonLocator).isDisplayed());
         driver.findElement(newIssueButtonLocator).click();
         return new NewIssuePage(driver);
     }

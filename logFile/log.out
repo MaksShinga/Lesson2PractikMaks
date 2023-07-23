@@ -82,3 +82,103 @@
 11:17:38 16.07.2023 CreatedIssue Page: DEBUG- [0;34mPage object of CreatedIssue PageCreatedIssuePage[0m
 11:17:39 16.07.2023 CreatedIssue Page: INFO - New issue is closed
 11:17:39 16.07.2023 CreatedIssue Page: DEBUG- [0;34mPage object of CreatedIssue PageCreatedIssuePage[0m
+12:45:05 20.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+12:45:13 20.07.2023 BaseTest: INFO - Chrome driver object is created 
+12:45:34 20.07.2023 Home Page: DEBUG- [0;34mPage object of Home PageHomePage[0m
+12:45:37 20.07.2023 Login Page: DEBUG- [0;34mPage object of Login PageLoginPage[0m
+12:45:50 20.07.2023 Login Page: INFO - Login successful
+12:45:50 20.07.2023 Main Page: DEBUG- [0;34mPage object of Main PageMainPage[0m
+12:45:50 20.07.2023 Main Page: DEBUG- [0;34mPage object of Main PageMainPage[0m
+12:45:51 20.07.2023 ProfileForm Page: DEBUG- [0;34mPage object of ProfileForm PageProfileForm[0m
+12:45:52 20.07.2023 Repositories Page: DEBUG- [0;34mPage object of Repositories PageRepositoriesPage[0m
+12:45:57 20.07.2023 Repositories Page: DEBUG- [0;34mPage object of Repositories PageRepositoriesPage[0m
+12:45:58 20.07.2023 FirstRepository Page: DEBUG- [0;34mPage object of FirstRepository PageFirstRepositoryPage[0m
+12:45:58 20.07.2023 FirstRepository Page: DEBUG- [0;34mPage object of FirstRepository PageFirstRepositoryPage[0m
+12:46:04 20.07.2023 Issues Page: DEBUG- [0;34mPage object of Issues PageIssuesPage[0m
+12:46:04 20.07.2023 Issues Page: DEBUG- [0;34mPage object of Issues PageIssuesPage[0m
+12:46:06 20.07.2023 NewIssue Page: DEBUG- [0;34mPage object of NewIssue PageNewIssuePage[0m
+12:46:06 20.07.2023 NewIssue Page: DEBUG- [0;34mPage object of NewIssue PageNewIssuePage[0m
+12:46:18 20.07.2023 NewIssue Page: INFO - New issue is created
+12:46:18 20.07.2023 CreatedIssue Page: DEBUG- [0;34mPage object of CreatedIssue PageCreatedIssuePage[0m
+12:46:18 20.07.2023 CreatedIssue Page: DEBUG- [0;34mPage object of CreatedIssue PageCreatedIssuePage[0m
+12:46:19 20.07.2023 CreatedIssue Page: INFO - New issue is edited
+12:46:19 20.07.2023 CreatedIssue Page: DEBUG- [0;34mPage object of CreatedIssue PageCreatedIssuePage[0m
+12:46:20 20.07.2023 CreatedIssue Page: INFO - New issue is closed
+12:46:20 20.07.2023 CreatedIssue Page: DEBUG- [0;34mPage object of CreatedIssue PageCreatedIssuePage[0m
+16:09:28 23.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+16:09:35 23.07.2023 BaseTest: INFO - Chrome driver object is created 
+16:09:56 23.07.2023 Home Page: DEBUG- [0;34mPage object of Home PageHomePage[0m
+16:09:58 23.07.2023 Login Page: DEBUG- [0;34mPage object of Login PageLoginPage[0m
+16:10:08 23.07.2023 Login Page: INFO - Login successful
+16:10:08 23.07.2023 Main Page: DEBUG- [0;34mPage object of Main PageMainPage[0m
+16:10:08 23.07.2023 Main Page: DEBUG- [0;34mPage object of Main PageMainPage[0m
+16:10:10 23.07.2023 ProfileForm Page: DEBUG- [0;34mPage object of ProfileForm PageProfileForm[0m
+16:10:12 23.07.2023 Repositories Page: DEBUG- [0;34mPage object of Repositories PageRepositoriesPage[0m
+16:10:16 23.07.2023 Repositories Page: DEBUG- [0;34mPage object of Repositories PageRepositoriesPage[0m
+16:10:17 23.07.2023 FirstRepository Page: DEBUG- [0;34mPage object of FirstRepository PageFirstRepositoryPage[0m
+16:10:17 23.07.2023 FirstRepository Page: DEBUG- [0;34mPage object of FirstRepository PageFirstRepositoryPage[0m
+16:10:22 23.07.2023 Issues Page: DEBUG- [0;34mPage object of Issues PageIssuesPage[0m
+16:10:22 23.07.2023 Issues Page: DEBUG- [0;34mPage object of Issues PageIssuesPage[0m
+16:10:25 23.07.2023 NewIssue Page: DEBUG- [0;34mPage object of NewIssue PageNewIssuePage[0m
+16:10:25 23.07.2023 NewIssue Page: DEBUG- [0;34mPage object of NewIssue PageNewIssuePage[0m
+16:10:35 23.07.2023 NewIssue Page: INFO - New issue is created
+16:10:35 23.07.2023 CreatedIssue Page: DEBUG- [0;34mPage object of CreatedIssue PageCreatedIssuePage[0m
+16:10:35 23.07.2023 CreatedIssue Page: DEBUG- [0;34mPage object of CreatedIssue PageCreatedIssuePage[0m
+16:10:37 23.07.2023 CreatedIssue Page: INFO - New issue is edited
+16:10:37 23.07.2023 CreatedIssue Page: DEBUG- [0;34mPage object of CreatedIssue PageCreatedIssuePage[0m
+16:10:38 23.07.2023 CreatedIssue Page: INFO - New issue is closed
+16:10:38 23.07.2023 CreatedIssue Page: DEBUG- [0;34mPage object of CreatedIssue PageCreatedIssuePage[0m
+17:45:21 23.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+17:45:29 23.07.2023 BaseTest: INFO - Chrome driver object is created 
+17:45:50 23.07.2023 Home Page: DEBUG- [0;34mPage object of Home PageHomePage[0m
+17:45:53 23.07.2023 Login Page: DEBUG- [0;34mPage object of Login PageLoginPage[0m
+17:46:02 23.07.2023 Login Page: INFO - Login successful
+17:46:02 23.07.2023 Main Page: DEBUG- [0;34mPage object of Main PageMainPage[0m
+17:46:02 23.07.2023 Main Page: DEBUG- [0;34mPage object of Main PageMainPage[0m
+17:46:04 23.07.2023 ProfileForm Page: DEBUG- [0;34mPage object of ProfileForm PageProfileForm[0m
+17:46:05 23.07.2023 Repositories Page: DEBUG- [0;34mPage object of Repositories PageRepositoriesPage[0m
+17:46:09 23.07.2023 Repositories Page: DEBUG- [0;34mPage object of Repositories PageRepositoriesPage[0m
+17:46:10 23.07.2023 FirstRepository Page: DEBUG- [0;34mPage object of FirstRepository PageFirstRepositoryPage[0m
+17:46:10 23.07.2023 FirstRepository Page: DEBUG- [0;34mPage object of FirstRepository PageFirstRepositoryPage[0m
+17:46:15 23.07.2023 Issues Page: DEBUG- [0;34mPage object of Issues PageIssuesPage[0m
+17:46:15 23.07.2023 Issues Page: DEBUG- [0;34mPage object of Issues PageIssuesPage[0m
+17:46:17 23.07.2023 NewIssue Page: DEBUG- [0;34mPage object of NewIssue PageNewIssuePage[0m
+17:46:17 23.07.2023 NewIssue Page: DEBUG- [0;34mPage object of NewIssue PageNewIssuePage[0m
+17:46:29 23.07.2023 NewIssue Page: INFO - New issue is created
+17:46:29 23.07.2023 CreatedIssue Page: DEBUG- [0;34mPage object of CreatedIssue PageCreatedIssuePage[0m
+17:46:29 23.07.2023 CreatedIssue Page: DEBUG- [0;34mPage object of CreatedIssue PageCreatedIssuePage[0m
+17:46:30 23.07.2023 CreatedIssue Page: INFO - New issue is edited
+17:46:30 23.07.2023 CreatedIssue Page: DEBUG- [0;34mPage object of CreatedIssue PageCreatedIssuePage[0m
+17:46:31 23.07.2023 CreatedIssue Page: INFO - New issue is closed
+17:46:31 23.07.2023 CreatedIssue Page: DEBUG- [0;34mPage object of CreatedIssue PageCreatedIssuePage[0m
+17:46:31 23.07.2023 Repositories Page: DEBUG- [0;34mPage object of Repositories PageRepositoriesPage[0m
+18:05:11 23.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+18:05:18 23.07.2023 BaseTest: INFO - Chrome driver object is created 
+18:05:40 23.07.2023 Home Page: DEBUG- [0;34mPage object of Home PageHomePage[0m
+18:05:42 23.07.2023 Login Page: DEBUG- [0;34mPage object of Login PageLoginPage[0m
+18:05:53 23.07.2023 Login Page: INFO - Login successful
+18:05:53 23.07.2023 Main Page: DEBUG- [0;34mPage object of Main PageMainPage[0m
+18:05:53 23.07.2023 Main Page: DEBUG- [0;34mPage object of Main PageMainPage[0m
+18:05:54 23.07.2023 ProfileForm Page: DEBUG- [0;34mPage object of ProfileForm PageProfileForm[0m
+18:05:55 23.07.2023 Repositories Page: DEBUG- [0;34mPage object of Repositories PageRepositoriesPage[0m
+18:05:59 23.07.2023 Repositories Page: DEBUG- [0;34mPage object of Repositories PageRepositoriesPage[0m
+18:06:00 23.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+18:06:05 23.07.2023 BaseTest: INFO - Chrome driver object is created 
+18:06:23 23.07.2023 Home Page: DEBUG- [0;34mPage object of Home PageHomePage[0m
+18:06:29 23.07.2023 Login Page: DEBUG- [0;34mPage object of Login PageLoginPage[0m
+18:06:39 23.07.2023 Login Page: INFO - Login successful
+18:06:39 23.07.2023 Main Page: DEBUG- [0;34mPage object of Main PageMainPage[0m
+18:06:39 23.07.2023 Main Page: DEBUG- [0;34mPage object of Main PageMainPage[0m
+18:06:40 23.07.2023 ProfileForm Page: DEBUG- [0;34mPage object of ProfileForm PageProfileForm[0m
+18:06:42 23.07.2023 Repositories Page: DEBUG- [0;34mPage object of Repositories PageRepositoriesPage[0m
+18:06:46 23.07.2023 Repositories Page: DEBUG- [0;34mPage object of Repositories PageRepositoriesPage[0m
+18:06:47 23.07.2023 BaseTest: INFO - Chrome driver object creation is starting
+18:06:52 23.07.2023 BaseTest: INFO - Chrome driver object is created 
+18:06:58 23.07.2023 Home Page: DEBUG- [0;34mPage object of Home PageHomePage[0m
+18:07:15 23.07.2023 Login Page: DEBUG- [0;34mPage object of Login PageLoginPage[0m
+18:07:27 23.07.2023 Login Page: INFO - Login successful
+18:07:27 23.07.2023 Main Page: DEBUG- [0;34mPage object of Main PageMainPage[0m
+18:07:27 23.07.2023 Main Page: DEBUG- [0;34mPage object of Main PageMainPage[0m
+18:07:29 23.07.2023 ProfileForm Page: DEBUG- [0;34mPage object of ProfileForm PageProfileForm[0m
+18:07:29 23.07.2023 Repositories Page: DEBUG- [0;34mPage object of Repositories PageRepositoriesPage[0m
+18:07:34 23.07.2023 Repositories Page: DEBUG- [0;34mPage object of Repositories PageRepositoriesPage[0m
